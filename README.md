@@ -27,14 +27,14 @@
 
 ## Fuctions
 ### GET 
-    * > /all-products
+    *  /all-products
         * Show all products' name
-    * > /over-calories/{int}
+    *  /over-calories/{int}
         * Show all products that calories are over {int}
-    * > /find-drinks/{int}
+    *  /find-drinks/{int}
         * Every drinks got an ID, enter number 1-7 to check out detail infos of all drinks
 ### POST 
-    * > /highest
+    *  /highest
         * Show the highest calories drinks
-    * > /upload
+    *  /upload
         * Upload a file to the server
